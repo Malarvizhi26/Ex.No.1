@@ -61,7 +61,9 @@ Step 7: Finalize and Export
 
 # Output
 Name: Malarvizhi G
+
 Reg no: 212222040096
+
 Dept: Computer Science and Engineering
 
 # Topic 1:Introduction to Generative AI
